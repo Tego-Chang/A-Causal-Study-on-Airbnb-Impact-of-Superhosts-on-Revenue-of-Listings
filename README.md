@@ -1,1 +1,1 @@
-# Impact-of-Being-Superhosts-on-Revenue-
+# Impact-of-Being-Superhosts-on-Revenue
