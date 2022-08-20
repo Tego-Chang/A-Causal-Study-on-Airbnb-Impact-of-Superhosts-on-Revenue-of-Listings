@@ -21,3 +21,5 @@ In the third phase, we built statistical models and investigate the coefficients
 
 ### Visualization of Results
 In the last phase, we visualized the outcome of our model, and we found the host status, being a superhost or not, of a listing indeed plays an obvious effect on the annual revenue of the listing. Further, other features' impacts on the response are also demonstrated. 
+
+Presentation video for this study can be found on: https://www.youtube.com/watch?v=-JU2L55idHQ
