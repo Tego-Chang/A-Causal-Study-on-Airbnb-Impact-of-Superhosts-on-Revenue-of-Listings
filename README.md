@@ -1,6 +1,6 @@
 # A-Causal-Study-on-Airbnb-Impact-of-Superhosts-on-Revenue-of-Listings
  
-Team: FR-Schwartz, Jaya Khan, Satvik Kishore, and Tego Chang
+**Team: FR-Schwartz, Jaya Khan, Satvik Kishore, and Tego Chang**
 
 In this study, we like to investigate if there's a causal effect between whether the host of a listing is superhost or not and the annual revenue of the listing. 
 
